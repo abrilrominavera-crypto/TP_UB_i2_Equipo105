@@ -1,0 +1,7 @@
+Participantes: Abril Vera
+
+a: Se actualiza configurando el repositorio original como "upstream" y usando git fetch y git merge.
+b: Sí, se puede actualizar el fork al estado de otro compañero agregando su repositorio como un "remote".
+c: Sí, GAMMA puede actualizar su fork al estado de ALFA si añade el repo de ALFA como remoto adicional.
+d: No se pierden, Git intenta fusionar los cambios y si hay problemas genera un conflicto para resolver.
+e: Comandos: git clone, git checkout -b, git add, git commit, git push y git merge para conflictos.
